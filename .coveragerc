@@ -1,0 +1,5 @@
+[run]
+include = utslipp/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
